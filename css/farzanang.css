@@ -88,7 +88,7 @@ textarea, input{
     margin-right: 7vw;
 
     display: grid;
-    grid-template-columns: repeat( auto-fit, minmax(180px, 1fr) );
+    grid-template-columns: repeat( auto-fit, minmax(150px, 1fr) );
     
     grid-gap: 4vw;
 
@@ -123,7 +123,7 @@ textarea, input{
 }
 
 .serviceclass>.servicedesc>.title{
-    color: 31693e;
+    color: #31693e;
     margin-bottom: 1.5em;
     font-size: 1.2em;
 }
